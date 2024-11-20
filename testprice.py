@@ -11,3 +11,4 @@ def test_cost_of_fruit():
     expected_value = 12
     actual_value = cost_of_fruits('apple', 10)
     assert expected_value==actual_value
+
