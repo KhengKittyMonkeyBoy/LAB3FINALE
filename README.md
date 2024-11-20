@@ -3,11 +3,7 @@
 ## Here is relevant details
 
 1. *Here is table of some individuals*
-1. poopoo
-2. peepee
 
-2. peepee
-1. poopoo
 
 | Name | Age | Department |
 | ---- | --- | ---------- |
@@ -15,3 +11,4 @@
 | Jern | 16  | Engineer   |
 
 2. -Here is a funny picture-
+[Funny picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfEyoJBI6zOH1OVEvoZUNwR83Em4DMd1FSA&s)
