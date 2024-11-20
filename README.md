@@ -12,3 +12,6 @@
 
 2. -Here is a funny picture-
 [Funny picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKfEyoJBI6zOH1OVEvoZUNwR83Em4DMd1FSA&s)
+
+def greet(name):
+return”Hello, {name}!”
